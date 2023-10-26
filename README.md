@@ -56,5 +56,5 @@ Each of these packages serves a specific purpose in web development and can enha
 Now to run web 
 >> npm run dev
 
-
+for email services log in to -> https://dashboard.emailjs.com
 
