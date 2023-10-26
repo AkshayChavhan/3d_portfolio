@@ -251,7 +251,7 @@ const projects = [
     ],
     image: portfolio2023,
     source_code_link: "https://github.com/AkshayChavhan/3d_portfolio.git",
-    // link:"https://akshaychavhan.netlify.app"
+    link:"https://akshaychavhan-portfolio.netlify.app/"
   },
   {
     name: "Dashboard 2023",
